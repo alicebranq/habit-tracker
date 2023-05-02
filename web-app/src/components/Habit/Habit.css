@@ -1,0 +1,15 @@
+.habit{
+    width: 40px;
+    height: 40px;
+    border: 1px red;
+    border-radius: 8px;
+    background-color: salmon;
+}
+
+/* tabela de cores: 
+    #FF4E3C
+    #D14638
+    #923128
+    #64211B
+    #34100D
+    */
